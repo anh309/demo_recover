@@ -1,0 +1,16 @@
+<appDefinition>
+   <appId>demo_recover</appId>
+   <id>demo_recover</id>
+   <version></version>
+   <name>demo_recover</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+   <license>J96pnZZTDEmxe8Hr6N1Nyt7bVh4d9tAXUJK4hk8GfDHs6x/5RsvuM2GYRBHhffs2</license>
+</appDefinition>
