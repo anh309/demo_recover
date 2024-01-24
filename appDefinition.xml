@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>demo_recover</id>
+   <version></version>
+   <name>demo_recover</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
